@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ![3-1](https://github.com/SE-LAPS/Quiz-App/assets/87580847/d5c1eddf-bcec-4a71-9395-14312cb4fb40)
+
+![3-2](https://github.com/SE-LAPS/Quiz-App/assets/87580847/cb46ff0c-8f1f-4138-9dfe-d5c53ee0c699)
